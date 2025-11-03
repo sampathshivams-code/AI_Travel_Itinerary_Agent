@@ -1,0 +1,5 @@
+budget,total_cost,feasible,transport,accommodation,activities
+5000,4000,True,road_bus,hostel,beach_visit;museums
+10000,8500,True,road_bus,guesthouse,beach_visit;museums;food_tour
+18000,11000,True,road_car,guesthouse,beach_visit;museums;food_tour
+30000,11000,True,road_car,guesthouse,beach_visit;museums;food_tour
